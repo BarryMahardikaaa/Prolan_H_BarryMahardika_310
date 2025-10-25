@@ -12,7 +12,7 @@ public class GanjilGenap {
         } else {
             System.out.println(angka + " adalah bilangan ganjil.");
         }
-
+            System.out.println("Jadi itu hasilnya");
         input.close();
     }
 }
